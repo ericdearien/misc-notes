@@ -1,0 +1,278 @@
+# Lecture 1
+## Keywords
+- Operating Systems
+    - a
+- CPU
+    - a
+- Memory
+    - a
+- Storage
+    - a
+- Devices
+    - a
+- Bus
+    - a
+- Processor (CPU)
+    - a
+- Registers
+    - a
+- Instructions
+    - a
+- Main Memory
+    - a
+- Cache
+    - a
+- Secondary Memory
+    - a
+- DMA
+    - a
+- I/O systems
+    - a
+## Important Questions
+- List the main computer hardware components and describe their functions.
+    - a
+- What is bootstrap program ?
+    - a
+- What is cache ? Why do we need it ?
+    - a
+- What is the difference between the Main memory and the Secondary memory ?
+    - a
+- What is the difference between OS/system programs and Application programs ?
+    - a
+- What is the difference between user view and system view 
+    - a
+# Lecture 2
+## Keywords
+- Dual Mode
+    - a
+- System Mode
+    - a
+- User Mode
+    - a
+- Mode bit
+    - a
+- Privileged Instructions
+    - a
+- multiprogramming
+    - a
+- time sharing
+    - a
+- Timer
+    - a
+- CPU time
+    - a
+- interrupt
+    - a
+- trap
+    - a
+- exception.
+    - a
+## Important Questions
+- What are OS and its main functions ?
+    - a
+- What are interrupt-driven and trap ?
+    - a
+- How can the OS maintain control over the CPU ?
+    - a
+- What are the five main OS tasks ?
+    - a
+- What is dual mode operation mode ? Its purpose ?
+    - a
+- Compare multiprogramming and time sharing.
+    - a
+# Lecture 3
+## Keywords
+- System services
+    - a
+- System calls
+    - a
+- System Programs
+    - a
+- Program execution
+    - a
+- File manipulation
+    - a
+- Resource allocation
+    - a
+- Accounting
+    - a
+- Information maintenance. 
+    - a
+## Important Questions
+- What is the purpose of system calls ?
+    - a
+- Compare system services, system calls, and system programs. 
+    - a
+- Draw a diagram to show a handling of user applications in invoking a system call (Fig. 2.3)
+    - a
+- Explain the advantages and disadvantages of the three parameter passing methods: using registers, using table, and using stack. 
+    - a
+# Lecture 4
+## Keywords
+- Simple structure
+    - a
+- Layered structure
+    - a
+- Microkernels
+    - a
+- Monolithic
+    - a
+- Mechanism
+    - a
+- Policy
+    - a
+- User goal
+    - a
+- System goal
+    - a
+- Booting
+    - a
+- BIOS
+    - a
+- ROM
+    - a
+- RAM. 
+    - a
+## Important Questions
+- What is the main advantage of the layered approach to system design ? (3.9)
+    - a
+- Compare user goal and system goal.
+    - a
+- What is the advantages and disadvantages of writing an OS using a high-level programming language ? a low-level programming language ?
+    - a
+- Why should we separate mechanism and policy ?
+    - a
+- What is microkernel ? its advantage and disadvantage ? What is its opposite approach 
+    - a
+- Draw a diagram to show system boot step by step 
+    - a
+# Lecture 5
+## Keywords
+- Virtualization
+    - a
+- Virtual Machine
+    - a
+- Vmware
+    - a
+- Java VM 
+    - a
+## Important Questions
+- Draw diagrams to compare virtual machine systems and non-virtual machine systems (2.15)
+    - a
+- What is the advantages and disadvantages of using Virtual machine concept in OS ?
+    - a
+- Draw the VMware architecture (2.16)
+    - a
+- Draw a diagram to show the Java VM
+    - a
+# Lecture 6
+## Keywords
+- Process
+    - a
+- Program counter
+    - a
+- Data section
+    - a
+- Stack
+    - a
+- Process States
+    - a
+- PCB
+    - a
+- Process Scheduling
+    - a
+- Queues
+    - a
+- Longterm Schedulers
+    - a
+- Short-term Schedulers
+    - a
+- I/O-bound process
+    - a
+- CPU-bound process
+    - a
+- Context Switch
+    - a
+- Process Creation
+    - a
+- Parent processes
+    - a
+- Children processes
+    - a
+- Process Termination.
+    - a
+## Important Questions
+- Draw a diagram showing all process states, queues, schedulers, and their relationships
+    - a
+- How many device queues are there on a system?
+    - a
+- True or False ?: The long-term scheduler selects a group of I/O-bound jobs or a group of CPUbound programs for subsequent activity. Explain.
+    - a
+- What needs to be done in context switch ?
+    - a
+- Compare short-term , medium-term, and long-term scheduling.
+    - a
+- Assume that we have 11 processes in the system. What are the possible Min and Max numbers of processes in new state ?, ready state ?, run state?, and waiting state? and of PCB?
+    - a
+# Lecture 7
+## Keywords
+- CPU-I/O burst cycle
+    - a
+- CPU Scheduler
+    - a
+- Dispatcher
+    - a
+- Preemption
+    - a
+- CPU utilization
+    - a
+- Throughput
+    - a
+- Waiting time
+    - a
+- Turnaround time
+    - a
+- Response time
+    - a
+- FIFO/FCFS
+    - a
+- Gantt chart
+    - a
+- convey effect
+    - a
+- starvation
+    - a
+- aging
+    - a
+## Important Questions
+- What is indefinite blocking (starvation) ? How can it occur? How two deal with it ?
+    - a
+- What is "aging"? its purpose ?
+    - a
+- An I/O-bound program would typically have what kind of CPU burst?
+    - a
+- What is a CPU burst? An I/O burst?
+    - a
+- What is the difference between "preemptive" and “non-preemptive” scheduling ?
+    - a
+# Lecture 8
+## Keywords
+- Priority Scheduling
+    - a
+- Round Robin
+    - a
+- Time Quantum
+    - a
+- Multilevel Queue
+    - a
+- Thread Scheduling
+    - a
+- Multiple-Processor Scheduling.
+    - a
+## Important Questions
+- What are the advantages of SJF? Disadvantages?
+    - a
+- How are priority and SJF related ?
+    - a
+- Which algorithms (FIFO,SJF,Priority,RR) to choose if the goal is to minimize CPU utilization ? Throughput ? Waiting time ? Turnaround time ? Response time ?
+    - a
