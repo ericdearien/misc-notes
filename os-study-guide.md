@@ -1,11 +1,11 @@
 # Lecture 1
 ## Keywords
 - Operating Systems
-    - a
+    - A software consisting of many programs that acts as an intermediary between the computer hardware and its users. It helps users use the computer by implementing their commands and executing their programs. Also manages computer hardware.
 - CPU
-    - a
+    - The Central Processing Unit
 - Memory
-    - a
+    - 
 - Storage
     - a
 - Devices
